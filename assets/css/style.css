@@ -128,8 +128,6 @@ section div p {
     line-height: 5rem;
 }
 
-
-
 figure {
     margin: 1rem auto;
   
@@ -141,6 +139,10 @@ figure {
 
 figure img {
     max-block-size: 15rem;
+}
+
+figure img:hover {
+    max-block-size: 20rem;
 }
 
 .row {
@@ -174,11 +176,6 @@ div ul {
     margin-left: 5rem;
 
 }
-
-
-
-
-
 
 footer {
     margin: 1.5rem;
