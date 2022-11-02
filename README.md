@@ -9,6 +9,9 @@ El código fué realizado desde cero y como resultado queda hecho mi portafolio 
 ## Enlace a la aplicación
 https://dorecio.github.io/Desafio-2-Bootcamp-repo/
 
+## Enlace al repositorio
+https://github.com/dorecio/Desafio-2-Bootcamp-repo
+
 ## Historia del usuario
 
 COMO UN empleador
